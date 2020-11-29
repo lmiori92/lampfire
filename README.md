@@ -36,3 +36,7 @@ using your IDE of choice; I have used Eclipse with the AVR plugins.
 
 ## Changelog
 28.11.2020 - Initial version with 2 channels
+
+## Schematic
+
+![Alt text](/doc/Schematic.jpg?raw=true "" | width=350)
